@@ -58,7 +58,7 @@ export default defineConfig(
 
     /* prettier-ignore */
     head: [
-    ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: 'https://pub.lbkrs.com/files/202107/35tULHe3n4Pp4EtA/logo.png' }],
+    ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: 'https://assets.wbrks.com/assets/logo/logo1.png' }],
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     ['meta', { name: 'twitter:site', content: 'https://open.longbridge.com' }],
@@ -81,7 +81,7 @@ export default defineConfig(
         },
       },
       logo: {
-        src: 'https://assets.lbkrs.com/uploads/f029efba-486b-4c32-8b05-1a87b0fb61f8/logo-without-title-lb.svg',
+        src: 'https://assets.wbrks.com/assets/logo/logo-without-title-lb.svg',
         width: 48,
         height: 48,
       },
